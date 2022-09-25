@@ -1,6 +1,6 @@
-# Cheets.io source code
+# [Cheets.io](https://cheets.io) source code
 
 ## ToDo
 
 - [x] firebase
-- [ ] Make frontend
+- [ ] Make frontend (in angular for now)
