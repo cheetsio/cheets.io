@@ -2,5 +2,5 @@
 
 ## ToDo
 
-- [ ] firebase
+- [x] firebase
 - [ ] Make frontend
