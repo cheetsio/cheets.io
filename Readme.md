@@ -4,3 +4,5 @@
 
 - [x] firebase
 - [ ] Make frontend (in angular for now)
+
+PR try out
